@@ -1,0 +1,4 @@
+milestone1 progress:
+
+Player can move freely and levels with platforms will load from a file,
+ however gravity has not yet been implemented and there is no collision.
